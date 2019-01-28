@@ -1,6 +1,6 @@
 {
   "title": "Skelpy Explorer",
-  "server": "http://51.75.27.22:4001/api",
+  "server": "https://node.skelpy.co/api",
   "alias": "Main",
   "activeDelegates": 51,
   "rewardOffset": 75600,
